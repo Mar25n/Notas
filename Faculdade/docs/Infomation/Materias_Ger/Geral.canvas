@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"0ac9e16656b7c728","x":808,"y":-155,"width":250,"height":60,"type":"text","text":""},
+		{"id":"5f5aa3575647a9a1","type":"file","file":"Infomation/Materias_Ger/Fisca.md","x":-106,"y":-500,"width":400,"height":400},
+		{"id":"83b37fd3900dded1","type":"text","text":"","x":294,"y":-777,"width":250,"height":60},
+		{"id":"9c67fdbc155e2ebe","type":"text","text":"## Materias\n","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"5cf44386a58a88a5","type":"text","text":"## Fisica\n","x":280,"y":-180,"width":250,"height":60},
+		{"id":"e41df8b00374addf","type":"text","text":"## [[Calculo]]\n","x":260,"y":69,"width":250,"height":51},
+		{"id":"5e3fe4ea37315300","type":"text","text":"## Vetores","x":280,"y":-300,"width":250,"height":60},
+		{"id":"7893f7fa9d200cb5","type":"file","file":"Star.md","x":-500,"y":-550,"width":400,"height":400},
+		{"id":"481c35b91b4fe2ab","type":"file","file":"Infomation/Materias_Ger/Calculo.md","x":820,"y":280,"width":400,"height":400},
+		{"id":"dd27130ff58784cf","type":"text","text":"","x":1323,"y":-1447,"width":250,"height":60},
+		{"id":"baf854da815b7ed3","type":"text","text":"","x":-425,"y":680,"width":250,"height":60},
+		{"id":"12839896c8ddb23f","type":"file","file":"Infomation/Materias_Ger/Documents/MickeyChachoror.jpeg","x":217,"y":-950,"width":336,"height":400}
+	],
+	"edges":[
+		{"id":"690ca155026d1cb7","fromNode":"9c67fdbc155e2ebe","fromSide":"right","toNode":"5cf44386a58a88a5","toSide":"left"},
+		{"id":"7f680424fb9d801a","fromNode":"9c67fdbc155e2ebe","fromSide":"right","toNode":"e41df8b00374addf","toSide":"left"},
+		{"id":"1dd029961e5042e8","fromNode":"9c67fdbc155e2ebe","fromSide":"right","toNode":"5e3fe4ea37315300","toSide":"left"},
+		{"id":"4cd40c86a654e2d1","fromNode":"7893f7fa9d200cb5","fromSide":"bottom","toNode":"9c67fdbc155e2ebe","toSide":"left"},
+		{"id":"798d36dac58c7b3e","fromNode":"12839896c8ddb23f","fromSide":"bottom","toNode":"7893f7fa9d200cb5","toSide":"right"},
+		{"id":"79e6b61c828977c1","fromNode":"7893f7fa9d200cb5","fromSide":"top","toNode":"12839896c8ddb23f","toSide":"top"},
+		{"id":"c7060dc38b8b3552","fromNode":"baf854da815b7ed3","fromSide":"bottom","toNode":"e41df8b00374addf","toSide":"bottom"},
+		{"id":"011b8f9dbec8892c","fromNode":"e41df8b00374addf","fromSide":"right","toNode":"481c35b91b4fe2ab","toSide":"left"}
+	]
+}

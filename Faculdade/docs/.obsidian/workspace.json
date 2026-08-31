@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "c16346d985e65e19",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f49d77a4befdfc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ef6ed71da595eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infomation/Calculo_IN/Calculo I/Limites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limites"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0547273e5af5c47c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5afc524856efaabc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c00a50f264a0eef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6634a4d8501efd4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#hola",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5976265b67b792a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15ebfc09cb540620",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ae399ce6c49f9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b2c4790d311f08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A fazer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "242b5514cc13e5ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A fazer.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ef4c7c8e5f9f78ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c8111ce6c12e326",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0e1159bc5024cd42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A fazer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0c948fb0e7118bd5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7ef6ed71da595eef",
+  "lastOpenFiles": [
+    "docs",
+    "Nova pasta",
+    "mkdocs.yml",
+    "Infomation/Calculo_IN/Documents/James Stewart.pdf",
+    "Infomation/Materias_Ger/Calculo.md",
+    "Star.md",
+    "A fazer.md",
+    "Infomation/Fisica_IN/Fisica.canvas",
+    "Infomation/Materias_Ger/Fisca.md",
+    "Untitled.base",
+    "Infomation/Materias_Ger/Geral.canvas",
+    "Infomation/XD.md",
+    "Infomation/Calculo_IN/Calculo I/Limites.md",
+    "Infomation/XD/2026-08-27 dxxjkyytf.md",
+    "Infomation/XD/XD.md",
+    "Infomation/Fisica_IN/Fisica I/Movimento unidimensional.md",
+    "Infomation/Fisica_IN/Fisica I/Movimento unidimencional.md",
+    "Infomation/Materias_Ger/Bases de Matematica.md",
+    "Infomation/Bases/Angulos ou triangulos (ainda não sei kkk).md",
+    "Infomation/Bases",
+    "Infomation/Fisica_IN/Atividades.md",
+    "Infomation/Calculo_IN/Calculo I/Integrais.md",
+    "Infomation/Calculo_IN/Calculo I/Derivadas.md",
+    "Infomation/Calculo_IN/Teorema fundamental do calculo.md",
+    "Infomation/Fisica_IN/Atividades/Atividade 1 (Movimento unidimensional).pdf",
+    "Infomation/Fisica_IN/Atividades/Atividade 2 (Movimento bidimensional).pdf",
+    "Infomation/Materias_Ger/Documents/Pasted image 20260828113632.png",
+    "Infomation/Materias_Ger/Documents/Pasted image 20260828113527.png",
+    "Infomation/Materias_Ger/Nome materia.md",
+    "Infomation/Materias_Ger/Algebra linear.md",
+    "Infomation/Fisica_IN/Documents/Exemplos",
+    "Infomation/Estructura_de_dados_IN/Atividades.md",
+    "Infomation/Calculo_IN/Atividades.md",
+    "Infomation/Algebra linear/Atividades.md",
+    "Infomation/Materias_Ger/Vectores e geometria analitica.md",
+    "Infomation/Fisica_IN/Documents/Física 1 - Raymond A. Serway.pdf",
+    "Infomation/Calculo_IN/Documents/Calculo 2 - James Stewart.pdf",
+    "Infomation/Calculo_IN/Calculo II/Listas.md",
+    "Infomation/XD/2026-08-25 xd.md",
+    "Infomation/Materias_Ger/Estructura de dados.md",
+    "Infomation/Materias_Ger/Documents/MickeyChachoror.jpeg",
+    "xd.png",
+    "Pasted image 20260826121127.png"
+  ]
+}

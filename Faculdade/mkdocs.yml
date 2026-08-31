@@ -1,0 +1,14 @@
+site_name: Meus Estudos
+site_url: https://Mar25n.github.io/Notas/
+theme:
+  name: material
+  palette:
+    scheme: slate # Tema escuro (ou 'default' para claro)
+    primary: indigo
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search

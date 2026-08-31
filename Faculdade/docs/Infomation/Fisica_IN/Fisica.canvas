@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"62bae1ddef6e7b4b","type":"file","file":"Infomation/Materias_Ger/Documents/Pasted image 20260828113527.png","x":-260,"y":-180,"width":284,"height":400},
+		{"id":"58bf8586ace20a04","type":"text","text":"**Fisca**","x":-160,"y":220,"width":85,"height":60,"color":"5"},
+		{"id":"e62537506afd1ca0","type":"file","file":"Infomation/Materias_Ger/Documents/Pasted image 20260828113632.png","x":80,"y":360,"width":300,"height":285},
+		{"id":"2b4846f415d16db5","type":"text","text":"[[Movimento unidimensional]]","x":105,"y":300,"width":250,"height":60},
+		{"id":"67d0688e9cb72535","type":"file","file":"Infomation/Materias_Ger/Documents/MickeyChachoror.jpeg","x":-485,"y":-2480,"width":1131,"height":1346},
+		{"id":"1d6b46b2c997bea0","type":"text","text":"Cachorro Bonitinho","x":-44,"y":-2540,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e542d34d3f0280d5","fromNode":"58bf8586ace20a04","fromSide":"bottom","toNode":"2b4846f415d16db5","toSide":"top"}
+	]
+}
